@@ -1,7 +1,7 @@
 # Web Developing Stuff Collection
 The web developing tools and frameworks from [Alibaba.cn](http://alibaba.cn) Web Develop [team](http://www.fangdeng.org).
 
-We made a lot of stuff to make our daily work easier. Some of them may be helpful to you if you're doing web developing too, so we decide to open source them.
+Here in Alibaba, we made a lot of stuff to make our daily work easier. Some of them may be helpful to you if you're doing web developing too, so we decide to open source them.
 
 ## What is included now?
 
